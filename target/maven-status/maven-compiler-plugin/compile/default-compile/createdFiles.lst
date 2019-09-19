@@ -1,0 +1,3 @@
+com\org\config\MyWebInitializer.class
+com\org\config\SpringWebConfig.class
+com\org\controller\HelloController.class
